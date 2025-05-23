@@ -2,4 +2,7 @@ table {
   border: 2px solid black;
   border-radius: 5px;
 }
-
+tr, th, td { border: 2px solid black;}
+s1 { border-right: 2px solid darkblue;}
+s2 { border-right: 2px solid darkgreen;}
+s3 { border-right: 2px solid maroon;}
